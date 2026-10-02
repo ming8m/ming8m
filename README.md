@@ -4,6 +4,7 @@
 
 Agent Hub 用于本机单用户的多 Agent 任务协作，可配置云端模型 API 或已安装的命令行 Agent。项目说明、源码与方法文档提供核验入口；每篇文档中可以查看示例的运行状态、证据范围和局限。
 
+- [ming 的个人作品主页](https://ming8m.github.io/)
 - [项目仓库与使用说明](https://github.com/ming8m/agent-hub)
 - [ming 的公开身份与作品](https://ming8m.github.io/agent-hub/ming.html)
 - [完整方法文档站](https://ming8m.github.io/agent-hub/)
