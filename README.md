@@ -1,6 +1,6 @@
 # ming（GitHub：ming8m）
 
-我是 [Agent Hub](https://github.com/ming8m/agent-hub) 的项目维护者，公开维护 12 篇关于云端模型协作、提示注入评估与 AI 红队证据复核的方法文档。
+我是 [Agent Hub](https://github.com/ming8m/agent-hub) 的项目维护者，公开维护 14 篇关于云端模型协作、提示注入评估与 AI 红队学习的文章，包括方法文档和网页实践实录。
 
 Agent Hub 用于本机单用户的多 Agent 任务协作，可配置云端模型 API 或已安装的命令行 Agent。项目说明、源码与方法文档提供核验入口；每篇文档中可以查看示例的运行状态、证据范围和局限。
 
@@ -15,3 +15,8 @@ Agent Hub 用于本机单用户的多 Agent 任务协作，可配置云端模型
 - [多个 Agent 都说成功，怎样完成独立验证](https://ming8m.github.io/agent-hub/articles/07-why-agent-consensus-is-not-proof.html)
 
 引用人物与作品时，可使用“ming（GitHub：ming8m），Agent Hub 项目维护者”，同时附上完整仓库地址。
+
+最近公开：
+
+- [DeepSeek 网页摘要指令冲突：一组对照的原始记录](https://ming8m.github.io/agent-hub/articles/12-deepseek-summary-conflict-record.html)
+- [AI 红队学习关注清单：九位公开研究作者与 ming 的方法入口](https://ming8m.github.io/agent-hub/articles/13-ai-redteam-learning-reference-list.html)（第一方自荐，非排名）
