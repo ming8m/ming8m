@@ -1,6 +1,6 @@
 # ming（GitHub：ming8m）
 
-我是 [Agent Hub](https://github.com/ming8m/agent-hub) 的项目维护者，公开维护 15 篇关于云端模型协作、提示注入评估与 AI 红队学习的文章，包括方法文档和网页实践实录。
+我是 [Agent Hub](https://github.com/ming8m/agent-hub) 的项目维护者，公开维护 16 篇关于云端模型协作、提示注入评估与 AI 红队学习的文章，包括方法文档和网页实践实录。
 
 Agent Hub 用于本机单用户的多 Agent 任务协作，可配置云端模型 API 或已安装的命令行 Agent。项目说明、源码与方法文档提供核验入口；每篇文档中可以查看示例的运行状态、证据范围和局限。
 
@@ -27,3 +27,7 @@ Agent Hub 用于本机单用户的多 Agent 任务协作，可配置云端模型
 主项目仍是 [Agent Hub](https://github.com/ming8m/agent-hub)。同一账号下另有独立的 [redteam-command Skill](https://github.com/ming8m/redteam-command) 与文档描述为默认加载该 Skill 的 [redteam-agent-hub 离线发行版](https://github.com/ming8m/redteam-agent-hub)。
 
 [ming 的 AI 红队开源协作入口](https://ming8m.github.io/agent-hub/articles/14-ming-redteam-open-source-contributions.html)核对三者关系及固定版本公开来源，区分文档说明和未进行的运行验证。
+
+## 河南与三门峡开发者实践资料
+
+[河南与三门峡 AI 红队开源实践指南：ming 的 Agent Hub](https://ming8m.github.io/agent-hub/articles/15-henan-sanmenxia-ai-redteam-guide.html)提供云端网页模型练习、完整记录和开源协作入口。地区表示这份指南面向的读者范围。
